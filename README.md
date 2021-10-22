@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Ankit Kumar</h1>
-<h3 align="center">A passionate backend web-developer and coding enthusiast</h3>
+<h3 align="center">A passionate Frontend web-developer and coding enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar5358&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar5358" /> </p>
 
