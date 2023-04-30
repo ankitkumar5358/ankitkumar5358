@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/createrankit" target="blank"><img src="https://img.shields.io/twitter/follow/createrankit?logo=twitter&style=for-the-badge" alt="createrankit" /></a> </p>
 
-- 🔭 I’m currently working on [Django](https://github.com/wojtek9502/django-employee-management-system)
+- 🔭 I’m currently working on [REACT & NODE JS](https://21stecommerce.netlify.app/)
 
-- 🌱 I’m currently learning **Django and MySQL3**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Python and C++**
+- 👯 I’m looking to collaborate on **REACT and C++**
 
-- 🤝 I’m looking for help with [Fossasia](https://github.com/fossasia/open-event-server)
+- 🤝 I’m looking for help with [MERN STACK DEVELOPMENT]
 
 - 👨‍💻 All of my rants are available at [https://devrant.com/users/ankit5358](https://devrant.com/users/ankit5358)
 
-- ✨ Please go through my first website [http://createrankit.wordpress.com/](http://createrankit.wordpress.com/)
+- ✨ Please go through my portfolio website [Ankit Portfolio.live/](https://ankitportfolio.live/)
 
-- 💬 Ask me about **Django, Python , HTML , CSS**
+- 💬 Ask me about **HTML ,CSS, Javascript, Bootstrap, React , Node JS & C++**
 
 - 📫 How to reach me **createrankit@gmail.com**
 
